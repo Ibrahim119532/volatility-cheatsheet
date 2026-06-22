@@ -21,7 +21,7 @@ Coming Soon
 
 ## Screenshot
 
-Add screenshot here
+![Volatility Cheatsheet](screenshot.png)
 
 ## License
 
