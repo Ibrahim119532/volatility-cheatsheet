@@ -27,6 +27,9 @@ https://ibrahim119532.github.io/volatility-cheatsheet/
 
 © 2026 MD. Ibrahim Khalilullah
 
-This project is publicly viewable for educational and portfolio purposes.
+All Rights Reserved.
 
+This repository and its contents are provided for viewing and educational purposes only.
+
+Unauthorized copying, redistribution, modification, rebranding, or commercial use is prohibited without prior written permission.
 
