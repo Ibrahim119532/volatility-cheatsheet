@@ -17,7 +17,7 @@ Interactive Volatility 2 and Volatility 3 cheatsheet for DFIR, Memory Forensics 
 
 ## Live Demo
 
-Coming Soon
+https://ibrahim119532.github.io/volatility-cheatsheet/
 
 ## Screenshot
 
@@ -25,4 +25,8 @@ Coming Soon
 
 ## License
 
-MIT License
+© 2026 MD. Ibrahim Khalilullah
+
+This project is publicly viewable for educational and portfolio purposes.
+
+
